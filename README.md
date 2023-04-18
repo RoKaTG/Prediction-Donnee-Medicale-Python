@@ -26,6 +26,7 @@ Ce projet utilise des techniques d'analyse de données et de machine learning po
 ## Auteurs
 Moi même @RoKaTG et Sarah Boundaoui, à l'université Paris Saclay.
 
-## Remerciements
-Mention des personnes, projets ou organisations qui ont contribué à la réalisation du projet.
+## Remerciements et Crédits (Lissage et listages des données utilisées)
+Isabelle Guyon, Kristin Bennett, Andrew Yale, Adrien Pavao, Thomas Gerspacher
+
 ![Projet python](https://user-images.githubusercontent.com/58750536/226784390-5b97c129-0ec9-4eca-a60d-11c90dc8b88b.png)
