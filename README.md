@@ -5,7 +5,7 @@ Le but de ce projet est de prédire la survie des patient·e·s pendant leur sé
 - Installer Python et Jupyter Notebook.
 - Télécharger ou cloner le repository du projet.
 - Ouvrir Jupyter Notebook.
-- Naviguer jusqu'au dossier du projet et ouvrir le fichier `patient_survival_prediction.ipynb`.
+- Naviguer jusqu'au dossier du projet et ouvrir le fichier `Projet Python Donnée Medicale.ipynb`.
 
 ## Instructions d'utilisation
 - Exécuter les cellules du notebook dans l'ordre.
