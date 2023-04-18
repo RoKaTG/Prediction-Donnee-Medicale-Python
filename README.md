@@ -1,2 +1,31 @@
 # Prediction-Donnee-Medicale-Python
+Le but de ce projet est de prédire la survie des patient·e·s pendant leur séjour à l'hôpital en utilisant leur dossier médical.
+
+## Conditions de lancement
+- Installer Python et Jupyter Notebook.
+- Télécharger ou cloner le repository du projet.
+- Ouvrir Jupyter Notebook.
+- Naviguer jusqu'au dossier du projet et ouvrir le fichier `patient_survival_prediction.ipynb`.
+
+## Instructions d'utilisation
+- Exécuter les cellules du notebook dans l'ordre.
+- Les résultats de la prédiction de survie pour les patient·e·s seront affichés à la fin du notebook.
+
+## Fonctionnalités
+Ce projet utilise des techniques d'analyse de données et de machine learning pour prédire la survie des patient·e·s pendant leur séjour à l'hôpital en utilisant leur dossier médical. Il inclut également des visualisations des données et des évaluations de la performance des modèles de prédiction utilisés.
+
+## Technologies utilisées
+<ul>
+<li>Python<li>
+<li>Jupyter Notebook<li>
+<li>Scikit-learn<li>
+<li>Pandas<li>
+<li>Matplotlib<li>
+<li>Seaborn<li>
+
+## Auteurs
+Moi même @RoKaTG et Sarah Boundaoui, à l'université Paris Saclay.
+
+## Remerciements
+Mention des personnes, projets ou organisations qui ont contribué à la réalisation du projet.
 ![Projet python](https://user-images.githubusercontent.com/58750536/226784390-5b97c129-0ec9-4eca-a60d-11c90dc8b88b.png)
