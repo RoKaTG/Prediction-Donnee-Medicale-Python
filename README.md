@@ -16,13 +16,13 @@ Ce projet utilise des techniques d'analyse de données et de machine learning po
 
 ## Technologies utilisées
 <ul>
-<li>Python<li>
-<li>Jupyter Notebook<li>
-<li>Scikit-learn<li>
+<li>Python
+<li>Jupyter Notebook
+<li>Scikit-learn
 <li>Pandas<li>
-<li>Matplotlib<li>
-<li>Seaborn<li>
-
+<li>Matplotlib
+<li>Seaborn
+</ul>
 ## Auteurs
 Moi même @RoKaTG et Sarah Boundaoui, à l'université Paris Saclay.
 
