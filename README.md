@@ -22,6 +22,7 @@ Ce projet utilise des techniques d'analyse de données et de machine learning po
 <li>Pandas
 <li>Matplotlib
 <li>Seaborn
+<li>Numpy
 </ul>
 ## Auteurs
 Moi même @RoKaTG et Sarah Boundaoui, à l'université Paris Saclay.
