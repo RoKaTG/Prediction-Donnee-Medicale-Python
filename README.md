@@ -19,7 +19,7 @@ Ce projet utilise des techniques d'analyse de données et de machine learning po
 <li>Python
 <li>Jupyter Notebook
 <li>Scikit-learn
-<li>Pandas<li>
+<li>Pandas
 <li>Matplotlib
 <li>Seaborn
 </ul>
